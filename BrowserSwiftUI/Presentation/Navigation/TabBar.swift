@@ -82,7 +82,6 @@ struct TabBar: View {
                     .foregroundColor(selection == 3 ? .black : Color(.lightGray))
 
             }
-
             .tag(3)
         }
         .accentColor(Color(hex: Constants.YellowHex))
