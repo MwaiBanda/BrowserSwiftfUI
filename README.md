@@ -5,7 +5,7 @@ Download code -> open project -> select simulator(iphone 12 pro max tested✅) -
 # features 
 - Web browsering
 - News Articles
-- Bookmarking<br>
+- Bookmarking (vist, add & delete)<br>
 # tradeoffs
 - directly accessing apis in view for speed instead of injecting apis as dependencies in Viewmodel 
 <table>
