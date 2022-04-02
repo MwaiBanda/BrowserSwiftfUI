@@ -1,5 +1,5 @@
 # BrowserSwiftfUI
-SwiftUI Browser App
+SwiftUI Browser App w/ News Articles
 # How to run 
 Download code -> open project -> select simulator(iphone 12 pro max tested✅) -> run
 <table>
