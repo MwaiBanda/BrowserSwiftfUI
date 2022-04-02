@@ -8,6 +8,7 @@ Download code -> open project -> select simulator(iphone 12 pro max tested✅) -
 - Bookmarking (vist, add & delete)<br>
 # Design Decisions
 - MVVM architecture 
+-  I used the algorithms library for additional array operations i.e chunked(by: ) I use to construct the 3 x 3 grid of suggestions 
 - callbacks to push up actions & data
 - I wanted the webview to appear within the same view as the search bar
 # Tradeoffs
