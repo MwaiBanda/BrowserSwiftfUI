@@ -1,6 +1,7 @@
 # BrowseSwiftfUI
 SwiftUI Browser App
-
+# How to run 
+Download code -> open project -> select simulator(iphone 12 pro max tested✅) -> run
 <table>
   <tr>
     <td>Suggestions</td>
