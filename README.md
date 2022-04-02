@@ -8,7 +8,7 @@ Download code -> open project -> select simulator(iphone 12 pro max tested✅) -
 - Bookmarking (vist, add & delete)<br>
 # Design Decisions
 - MVVM architecture 
-- callbacks to push up actions
+- callbacks to push up actions & data
 - I wanted the webview to appear within the same view as the search bar
 # Tradeoffs
 - directly accessing apis in view for speed instead of injecting apis as dependencies in Viewmodel 
