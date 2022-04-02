@@ -6,8 +6,13 @@ Download code -> open project -> select simulator(iphone 12 pro max tested✅) -
 - Web browsering
 - News Articles
 - Bookmarking (vist, add & delete)<br>
+# design Decisions
+- MVVM architecture 
+- callbacks to push up actions
+- I wanted the webview to appear within the same view as the search bar
 # tradeoffs
 - directly accessing apis in view for speed instead of injecting apis as dependencies in Viewmodel 
+- design wise if this was a production project I would like search bar to stick to the navbar when scrolling downwards
 <table>
   <tr>
     <td>Suggestions</td>
