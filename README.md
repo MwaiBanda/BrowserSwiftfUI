@@ -1,7 +1,13 @@
 # BrowserSwiftfUI
-SwiftUI Browser App w/ News Articles
+SwiftUI Browser App
 # How to run 
-Download code -> open project -> select simulator(iphone 12 pro max tested✅) -> run
+Download code -> open project -> select simulator(iphone 12 pro max tested✅) -> run<br>
+# features 
+- Web browsering
+- News Articles
+- Bookmarking<br>
+# tradeoffs
+- directly accessing apis in view for speed instead of injecting apis as dependencies in Viewmodel 
 <table>
   <tr>
     <td>Suggestions</td>
