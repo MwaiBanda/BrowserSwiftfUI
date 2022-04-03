@@ -5,7 +5,8 @@ Download code -> open project -> select simulator(iphone 12 pro max tested✅) -
 # Features 
 - Web browsering
 - News Articles
-- Bookmarking (vist, add & delete)<br>
+- Bookmarking (vist, add & delete)
+- meta-fetcher to get url meta data when bookmarked<br>
 # Design Decisions
 - MVVM architecture 
 -  I used the algorithms library for additional array operations i.e chunked(by: ) I use to construct the 3 x 2 grid of suggestions 
