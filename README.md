@@ -1,5 +1,5 @@
 # BrowserSwiftfUI
-SwiftUI Browser App
+Weekend Expolration(Fri, Sat & Sun) SwiftUI Browser App
 # How to run 
 Download code -> open project -> select simulator(iphone 12 pro max tested✅) -> run<br>
 # Features 
